@@ -1,0 +1,8 @@
+Jack, Sam, Ravina, Sheila, and Anya are preparing for an upcoming marathon. 
+Each day of the week, they run a certain number of miles and write them into a notebook. 
+At the end of the week, they would like to know the number of miles run each day, the total miles for the week, and average miles run each day. 
+Write a program to help them analyze their data.
+Your program must contain parallel arrays: an array to store the names of the runners and a two-dimensional array of five rows and seven columns 
+to store the number of miles run by each runner each day. 
+Furthermore, your program must contain at least the following functions: a function to read and store the runners’ names and the numbers of miles run each day; 
+a function to find the total miles run by each runner and the average number of miles run each day; and a function to output the results.
