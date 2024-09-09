@@ -1,0 +1,9 @@
+The cost to become a member of a fitness center is as follows: 
+(a) Senior citizens discount is 30%, 
+(b) If membership is bought and paid for 12 or more months, the discount is 15%, 
+(c) If more than five personal training sessions are bought and paid for, the discount on each session is 20%.
+Write a menu-driven program that determines the cost of a new membership.
+Your program must contain a function that displays the general information
+about the fitness center and its charges; a function to get all of the necessary
+information to determine the membership cost; and a function to determine
+the membership cost.
