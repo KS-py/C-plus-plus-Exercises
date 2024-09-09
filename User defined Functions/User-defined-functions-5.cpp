@@ -15,10 +15,7 @@ const double BUS_COST_PREM = 50.00;
 double residential();
 double business();
 
-int main() {
-	double ma = 89.3;
-	cout << ma << endl;
-	
+int main() {	
 	cout << fixed << showpoint;
 	cout << setprecision(4);
 
