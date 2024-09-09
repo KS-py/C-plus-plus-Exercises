@@ -5,3 +5,7 @@ Your program must read each student’s entire name in a variable and must consi
 consists of a student’s name, and returns the string consisting of the altered name.
 Use the string function find to find the index of ,; the function length to find the length of the string;
 and the function substr to extract the firstName, middleName, and lastName
+
+
+Please remember to create a `data.txt` file with a few lines of the ff content:
+lastName, firstName middleName
