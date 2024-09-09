@@ -1,0 +1,4 @@
+Calculates the cost of CableTV billing given some constant rates for a variety of subscribers.
+Further calculations are done based on client being a business or residential customer.
+Additional criteria like the number of premium channels the subscriber has signed up for will also count in the 
+calculation.
